@@ -1,5 +1,6 @@
 # NLP_2023
 
+# :a::hushed::heart_eyes::blush: python language
 #👀💧☔Python Language
 # :a::hamster::paw_prints: Python Language
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
